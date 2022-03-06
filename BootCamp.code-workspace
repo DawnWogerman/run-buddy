@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\VS Code"
+		},
+		{
+			"path": "..\\..\\Broken_and_Working_Code\\BrokenCode"
+		},
+		{
+			"path": "..\\..\\Broken_and_Working_Code\\WorkingCode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
