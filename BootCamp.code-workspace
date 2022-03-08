@@ -11,6 +11,10 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"name": "UofU-VIRT-BO-FSF-PT-03-2022-U-B",
+			"path": "..\\..\\UofU-VIRT-BO-FSF-PT-03-2022-U-B"
 		}
 	],
 	"settings": {}
